@@ -1,0 +1,10 @@
+Customer: John Doe
+Total Bill: 220.2
+Customer: Neerav
+Ordered Items: Pizza, Coffee, Cola, 
+Total Bill: 249.5
+---
+Customer: SEJAL GUPTA
+Ordered Items: Pizza, Cola, 
+Total Bill: 185.3
+---
